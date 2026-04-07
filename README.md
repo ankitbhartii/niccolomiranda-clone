@@ -14,7 +14,7 @@ A static recreation of Niccolò Miranda’s paper-inspired portfolio — exporte
 ---
 
 ## 🚀 Overview  
-This project is a **fully static portfolio landing page** inspired by Niccolò Miranda’s signature design style. It uses Webflow-exported HTML, CSS, images, and vendor libraries to deliver immersive scrolling and animated interactions — all without external dependencies.  
+This project is a **fully static portfolio landing page** inspired by Niccolò Miranda’s signature design style. It uses Webflow-exported HTML, CSS, images, and vendor libraries to deliver immersive scrolling and animated interactions — all without external dependencies .  
 
 ---
 
