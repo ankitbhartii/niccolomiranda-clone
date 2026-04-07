@@ -1,5 +1,10 @@
 Perfect — let’s give your README some personality and polish. Here’s a rewritten version that blends clarity, visual appeal, and a bit of storytelling:
 
+## 🔗 Live Demo
+Check out the deployed site here:  
+[https://niccolomiranda-clone-chi.vercel.app](https://niccolomiranda-clone-chi.vercel.app)
+
+
 ---
 
 # ✨ Niccolò Miranda Clone  
@@ -48,12 +53,6 @@ Open `index.html` directly in your browser, or spin up a local server:
 cd "c:\\Users\\ankit\\Downloads\\niccolomiranda clone"
 python -m http.server 8000
 ```
-
-
-
-## 🔗 Live Demo
-Check out the deployed site here:  
-[https://niccolomiranda-clone-chi.vercel.app](https://niccolomiranda-clone-chi.vercel.app)
 
 Then visit:  
 ```
