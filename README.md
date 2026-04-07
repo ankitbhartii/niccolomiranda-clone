@@ -49,6 +49,12 @@ cd "c:\\Users\\ankit\\Downloads\\niccolomiranda clone"
 python -m http.server 8000
 ```
 
+
+
+## 🔗 Live Demo
+Check out the deployed site here:  
+[https://niccolomiranda-clone-chi.vercel.app](https://niccolomiranda-clone-chi.vercel.app)
+
 Then visit:  
 ```
 http://localhost:8000/index.html
